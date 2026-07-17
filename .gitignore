@@ -4,7 +4,9 @@ __pycache__/
 .vscode/
 .idea/
 venv/
-.env*/
 videos/
 *.mp4
 yolov8n.pt
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
