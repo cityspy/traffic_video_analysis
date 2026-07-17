@@ -1,0 +1,2 @@
+minute_bin,start_sec,end_sec,frames_in_minute,avg_vehicle_count_per_frame,avg_car_count_per_frame,avg_motorcycle_count_per_frame,avg_bus_count_per_frame,avg_truck_count_per_frame,unique_track_ids_in_minute,avg_estimated_speed_kmh
+0,0,59.999,1406,12.003,10.336,0.0,0.925,0.741,291,12.5

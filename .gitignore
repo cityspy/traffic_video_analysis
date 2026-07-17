@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+venv/
+.env*/
+videos/
+*.mp4
+yolov8n.pt
